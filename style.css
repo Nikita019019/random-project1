@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+}
+.perv_tab{
+    border: 2px solid black;border-collapse: collapse;margin: auto;margin-top: 30px;
+}
+.perv_a{
+    color:rgb(176, 133, 224); border: 3px solid #000000;text-align: center; font-size: 35px;text-decoration: none; background-color: rgb(119, 223, 226); padding: 0px 10px;margin-left: 30px; 
+}
+.list_a{
+    color:rgb(176, 133, 224); border: 3px solid #000000;text-align: center ; font-size: 35px;text-decoration: none; background-color: rgb(119, 223, 226); padding: 0px 10px;margin-left: 30px;
+}
+.teacher_a{
+    color:rgb(176, 133, 224); border: 3px solid #000000;text-align: center ; font-size: 35px;text-decoration: none; background-color: rgb(119, 223, 226); padding: 0px 10px;margin-left: 30px; "href="#teacher
+}
+.gallary_a{
+    color:rgb(176, 133, 224); border: 3px solid #000000;text-align: center ; font-size: 35px;text-decoration: none; background-color: rgb(119, 223, 226); padding: 0px 10px;margin-left: 30px;"href="#gallary
+}
+.contact_a{
+    color:rgb(176, 133, 224); border: 3px solid #000000;text-align: center ; font-size: 35px;text-decoration: none; background-color: rgb(119, 223, 226); padding: 0px 10px;margin-left: 30px;"href="#contact
+}
+body{
+    background-color: #f39ab8;
+}
+img{
+    margin-left: px;
+}
+.td_vse{
+    border: 2px solid black;width: 90px; height: 30px;background-color: azure;margin-bottom: 500px;text-align: center;
+}
+.perv_td{
+    background-color: #66d2da;width: 90px; height: 30px;
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;color: #80100c;
+}
+.vos_td{
+   background-color: #ebd24a; 
+}
+.uch_td{
+    width: 550px;height: 150px; text-align: center;
+}
+ol{
+    text-align: left;
+}
+.radius{
+    border-radius: 50%; width: 400px; height: 400px; margin-left: 20px;
+}
+.social{
+    width: 100px; height: 100px;
+}
+.social_2{
+    width: 300px; height: 100px;margin: auto;
+}
+.teach{
+    width: 400px; height: 400px;
+}
+.cent{
+    text-align: center;
+}
